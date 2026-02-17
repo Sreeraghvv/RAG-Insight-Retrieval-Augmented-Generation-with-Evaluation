@@ -1,0 +1,5 @@
+Machine learning is a subset of artificial intelligence that enables systems to learn from data.
+Supervised learning uses labeled data to train models.
+Unsupervised learning works with unlabeled data.
+Reinforcement learning learns through rewards and penalties.
+Applications of machine learning include recommendation systems, fraud detection, NLP, computer vision, and predictive analytics.
