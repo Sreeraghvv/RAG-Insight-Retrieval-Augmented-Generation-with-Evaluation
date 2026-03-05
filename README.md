@@ -10,16 +10,22 @@ The goal of this project is to move beyond simple generation and focus on measur
  Architecture
 User Query
     ↓
+    
 Text Embedding (Sentence Transformers)
     ↓
+    
 FAISS Vector Search
     ↓
+    
 Cross-Encoder Re-ranking
     ↓
+    
 LLM Generation (Ollama)
     ↓
+    
 LLM-as-Judge Evaluation
     ↓
+    
 Structured Evaluation Report (CSV)
 
  Tech Stack
